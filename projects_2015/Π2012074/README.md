@@ -11,4 +11,4 @@ Upgrade the infrastructure of the existing FluTrack project with a scalable back
     <li>Okeanos: IaaS providing virtual machines(VMs)</li>
     <li>ElasticSearch: NoSQL data warehouse using a distributed inverted index</li>
   </ul>
-<section
+</section>
