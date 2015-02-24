@@ -8,7 +8,13 @@ Upgrade the infrastructure of the existing FluTrack project with a scalable back
 <section>
   <h3>Tools</h3>
   <ul>
-    <li>Okeanos: IaaS providing virtual machines(VMs)</li>
+    <li>Okeanos: IaaS providing virtual machines</li>
     <li>ElasticSearch: NoSQL data warehouse using a distributed inverted index</li>
+  </ul>
+  <h3>Resources</h3>
+  <ul>
+    <li>Number of VMs: 2</li>
+    <li>CPUs / VM: 2</li>
+    <li>RAM / VM: 6 GB</li>
   </ul>
 </section>
