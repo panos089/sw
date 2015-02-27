@@ -1,1 +1,3 @@
-Kostas Kirimis
+Κώστας Κυρίμης 
+Παραδοτεο 1 
+    παιχνιδι για android με opengles 
