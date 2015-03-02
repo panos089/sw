@@ -67,6 +67,8 @@
 
 **Σχετικές σελίδες για την την διδακτική και την ανάπτυξη έργων λογισμικού:**
 
+[GitHub Guides](https://guides.github.com)
+
 [How to Use Git and GitHub](https://www.udacity.com/course/ud775)
 
 [Teaching Real-World Programming](http://cacm.acm.org/magazines/2013/8/166303-teaching-programming-the-way-it-works-outside-the-classroom/abstract)
