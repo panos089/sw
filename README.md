@@ -16,7 +16,7 @@
 
 1. Εκπαιδευτικό παιχνίδι με Scratch, 6
 2. MIT App inventor quantified self, 7
-3. Δημιουργία ψηφιακών χαρτών για πεζούς [http://gis.stackexchange.com/questions/23464/is-there-a-good-gps-track-analysis-library](αυτόματη επεξεργασία δεδομένων GPX), 9
+3. Δημιουργία ψηφιακών χαρτών για πεζούς [αυτόματη επεξεργασία δεδομένων GPX](http://gis.stackexchange.com/questions/23464/is-there-a-good-gps-track-analysis-library), 9
 4. Κατασκευή xMOOC (e.g., coursebuilder) ή cMOOC (e.g., big blue button) για SW, 9
 5. [VideoAnalytics](http://www.socialskip.org/home), [PopCorn Maker](https://popcorn.webmaker.org/), Android Sports App, [Twitter Visualisation](http://www.Flutrack.org), [Old city 3D cartography](http://buildinginspector.nypl.org/), [Augmented reality location based game](https://www.tripventure.ne), conversion tool (markdown-bibtex, markdown-blogging), Cartography (Data analysis and visualization), Processing visualization  [Programmable Web](http://www.programmableweb.com) 10
 6. Δημιουργία εκπαιδευτικού παιχνιδιού για την εξάσκηση στην αλγοριθμική σκέψη:
