@@ -1,8 +1,8 @@
 ## 1ο Παραδοτέο
 
->Εφαρμογή android που θα σκανάρει ένα qr code σε μια καφετέρια, θα συνδέεται αυτόματα στο wifi της και θα ανοίγει μια σελίδα με >τον κατάλογο.
-
-Παππάς Χριστόδουλος	Π2012040-Ανδρέας Αποστόλου Π2012065
+>Εφαρμογή android που θα σκανάρει ένα qr code σε μια καφετέρια, θα συνδέεται αυτόματα στο wifi της και θα ανοίγει μια >σελίδα με τον κατάλογο.
+>
+>Παππάς Χριστόδουλος	Π2012040-Ανδρέας Αποστόλου Π2012065
 
 ## 2ο Παραδοτέο
 
@@ -29,7 +29,13 @@ wifiConfig.preSharedKey = String.format("\"%s\"", password);
 }
 ```
 
-###Image
+#### Text for the Qr sample
+```sh
+<ssid>networkSSID</ssid>
+<pass>password</pass>
+```
+
+####Image
 
 ![alt tag](https://raw.githubusercontent.com/Kitsopappas/Qr-Fidelity/master/images/img1.jpg)
 
