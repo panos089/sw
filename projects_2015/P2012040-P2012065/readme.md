@@ -11,8 +11,11 @@
 > Παρακάτω παραθέτουμε τμήμα κώδικα
 
 ```sh
+private void connectTo(String SSID, String password) { 
 
-private void connectTo(String SSID, String password) { WifiConfiguration wifiConfig = new WifiConfiguration(); wifiConfig.SSID = String.format("\"%s\"", SSID); wifiConfig.preSharedKey = String.format("\"%s\"", password);
+WifiConfiguration wifiConfig = new WifiConfiguration(); 
+wifiConfig.SSID = String.format("\"%s\"", SSID); 
+wifiConfig.preSharedKey = String.format("\"%s\"", password);
 
     WifiManager wifiManager = (WifiManager) getSystemService(WIFI_SERVICE);
     // remember id
@@ -23,7 +26,6 @@ private void connectTo(String SSID, String password) { WifiConfiguration wifiCon
 
     // WifiManager wifiManager = (WifiManager)
     // getSystemService(Context.WIFI_SERVICE);
-
 }
 ```
 
