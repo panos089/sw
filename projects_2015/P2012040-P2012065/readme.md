@@ -41,5 +41,5 @@ wifiConfig.preSharedKey = String.format("\"%s\"", password);
 ![alt tag](https://raw.githubusercontent.com/Kitsopappas/Qr-Fidelity/master/images/img1.jpg)
 
 ## 3ο Παραδοτέο
-
+>...........
 
