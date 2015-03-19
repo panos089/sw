@@ -1,7 +1,6 @@
 ΠΑΡΑΔΟΤΕΟ 1 
 
 Νίκη Συρεγγέλα Π2012061\
-
 Δημιουργία map tour application με τον MIT app inventor
 
 
