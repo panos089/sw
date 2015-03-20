@@ -10,6 +10,7 @@
 > Ένα sample της εφαρμογής για το android υπάρχει στο 
 > [Android App!](https://github.com/Kitsopappas/Qr-Fidelity)
 > Παρακάτω παραθέτουμε τμήμα κώδικα
+> Θα χρησιμοποιήσουμε το eclipse και android sdk για την εφαρμογή και html5 για το site.
 
 ```sh
 private void connectTo(String SSID, String password) { 
