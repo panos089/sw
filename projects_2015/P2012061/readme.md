@@ -10,4 +10,4 @@
 [Τα blocks της εφαρμογής ](http://prntscr.com/6j2djo)
 
 
-[Η οθόνη της εφαρμοογής](http://prntscr.com/6j2fsg)
+[Η οθόνη της εφαρμογής](http://prntscr.com/6j2fsg)
