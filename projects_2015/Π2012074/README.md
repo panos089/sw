@@ -9,7 +9,7 @@ Upgrade the infrastructure of the existing FluTrack project with a scalable back
   <h3>Tools</h3>
   <ul>
     <li>Okeanos: IaaS providing virtual machines</li>
-    <li>ElasticSearch: NoSQL data warehouse using a distributed inverted index</li>
+    <li>MongoDB: NoSQL Document Store</li>
   </ul>
   <h3>Resources</h3>
   <ul>
