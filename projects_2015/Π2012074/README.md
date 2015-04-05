@@ -18,3 +18,17 @@ Upgrade the infrastructure of the existing FluTrack project with a scalable back
     <li>RAM / VM: 6 GB</li>
   </ul>
 </section>
+
+<div id="progress">
+  <section>
+    <h2>Progress</h2>
+      <ul>
+        <li>
+          <p>Implementation of Twitter Streaming script in Python</p>
+        </li>
+        <li>
+          <p>Installation of NoSQL infrastructure with MongoDB</p>
+        </li>
+      </ul>
+  </section>
+</div>
