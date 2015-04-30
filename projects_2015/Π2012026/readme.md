@@ -23,6 +23,13 @@ POST()| Αναλαμβάνει την αποστολή των δεδομένων
 convertInputStreamToString() | Χρησιμοποιείται από την POST(), προκειμένου να μετατραπεί το inputstream που επιστρέφει ο server αφότου λάβει το JSONArray πίσω στην εφαρμογή σε string, έτσι ώστε η POST() να μπορεί να διαπιστώσει αν τα δεδομένα στάλθηκαν με επιτυχία στον server.
 
 <h3>Οθόνες από Web/Android Apps</h3>
+![alt text](https://github.com/courses-ionio/sw/blob/master/projects_2015/%CE%A02012026/Capture.PNG "Logo Title Text 1")
+
+
+![alt text](https://github.com/courses-ionio/sw/blob/master/projects_2015/%CE%A02012026/Capture3.PNG "Logo Title Text 1")
+
+
+![alt text](https://github.com/courses-ionio/sw/blob/master/projects_2015/%CE%A02012026/Capture2.PNG "Logo Title Text 1")
 
 
 [Repository](https://github.com/mkorakakis/Software-Engineering-Project)
