@@ -1,4 +1,4 @@
-<h2>Android Development</h2>
+<h2>Full Stack Web Development/Android Development</h2>
 <b>Κορακάκης Μιχάλης</b><br />
 <b>Π2012026</b>
 
