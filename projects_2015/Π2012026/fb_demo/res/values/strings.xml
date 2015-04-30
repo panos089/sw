@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">fb_demo</string>
+    <string name="action_settings">Settings</string>
+    <string name="facebook_app_id">410726122420426</string>
+    <string name="get_started">To get started, log in using Facebook</string>
+    
+</resources>

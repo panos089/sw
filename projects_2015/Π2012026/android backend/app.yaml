@@ -1,0 +1,10 @@
+application: cedar-defender-93011
+version: 1
+runtime: php
+api_version: 1
+
+handlers:
+- url: /submit.php
+  script: submit.php
+- url: /get_json.php
+  script: get_json.php
