@@ -11,6 +11,7 @@
 Πλατφόρμα: Web  
 Υλοποίηση: HTML5/JavaScript για το παιχνίδι, PHP/MySQL για τη βάση  
 Γλώσσα Παικτών: JavaScript  
+Πηγαίος Κώδικας: https://github.com/ptrgast/kivotos
 
 ##Παραδοτέο 3
 
