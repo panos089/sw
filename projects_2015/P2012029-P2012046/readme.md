@@ -7,7 +7,7 @@
 
 ###Παραδοτέο 2
 
-…
+![alt tag](https://dl-web.dropbox.com/get/Screenshot_2015-05-11-17-36-59.png?_subject_uid=223688575&w=AACydbsPS2LFKhPG9KzCecIli3fcK6foQIDCkyQvt0xOMQ)
 
 ###Παραδοτέο 3
 
