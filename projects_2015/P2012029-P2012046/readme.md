@@ -7,7 +7,7 @@
 
 ###Παραδοτέο 2
 
-![alt tag](https://raw.githubusercontent.com/Kitsopappas/TextAnalysis/master/Screenshot_2015-05-11-17-36-59.png)
+![alt tag](https://raw.githubusercontent.com/PantelisIoannou/images/master/img.png)
 
 ###Παραδοτέο 3
 
