@@ -8,7 +8,7 @@
 
 ###Παραδοτέο 2
 
-![alt tag]
+![alt tag](https://raw.githubusercontent.com/PantelisIoannou/images/master/img.png)
 
 ###Παραδοτέο 3
 
