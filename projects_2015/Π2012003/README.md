@@ -18,15 +18,4 @@
 Για την λήψη των δεδομένων χρησιμοποιήθηκε η εφαρμογή Strava (https://www.strava.com/ ) η οποία δίνει τη δυνατότητα εξαγωγής αρχείων .gpx τα οποία χρειάζονται για την ανάλυση των δεδομένων. Στην συνέχεια παρουσιάζονται τα δεδομένα, η ανάλυσή τους σύμφωνα με τον χρησιμοποιούμενο αλγόριθμο και προτείνεται η κατάλληλη διαδρομή (ως προς ταχύτητα, αυτή που επιλέχθηκε από τους περισσότερους, πιο βολική διαδρομή).
 
 Παρατίθονται screenshot από τις διαδρομές:
-<img src="Aerodromio-limani-1.png" alt="Αεροδρόμιο Λιμάνι 1η">
-<img src="Aerodromio-limani-2.png" alt="Αεροδρόμιο Λιμάνι 2η">
-<img src="Aerodromio-limani-3.png" alt="Αεροδρόμιο Λιμάνι 3η">
-<img src="Aerodromio-limani-4.png" alt="Αεροδρόμιο Λιμάνι 4η">
-<img src="Aerodromio-limani-5.png" alt="Αεροδρόμιο Λιμάνι 5η">
-
-<img src="Limani-aerodromio-1.png" alt="Λιμάνι Αεροδρόμιο 1η">
-<img src="Limani-aerodromio-2.png" alt="Λιμάνι Αεροδρόμιο 2η">
-<img src="Limani-aerodromio-3.png" alt="Λιμάνι Αεροδρόμιο 3η">
-<img src="Limani-aerodromio-4.png" alt="Λιμάνι Αεροδρόμιο 4η">
-<img src="Limani-aerodromio-5.png" alt="Λιμάνι Αεροδρόμιο 5η">
-
+https://www.dropbox.com/home/%CF%84%CF%83%CE%BF%CE%BA%CE%BF
