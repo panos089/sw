@@ -1,0 +1,251 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>Wormie</title>
+        <script src="js/jquery.js" type="text/javascript"></script> 
+		<script src="js/canvas.js" type="text/javascript"></script> 
+		<meta charset="utf-8"/>
+		
+        <script type="text/javascript">
+            // Variables
+			// General Vars for Usage
+			
+			// Images
+			var imgPath = "images/";
+			var background = new Image( );
+			background.src = imgPath + "background.png";
+			var worm = new Image( );
+			worm.src = imgPath + "wormie.png";
+			var nApple = new Image( );
+			nApple.src = imgPath + "apple_normal.png";
+			var bApple = new Image( );
+			bApple.src = imgPath + "apple_bitten.png";
+			var congrats = new Image( );
+			congrats.src = imgPath + "congrats.png";
+			var hole = new Image( );
+			hole.src = imgPath + "hole.png";
+			var holeSelected = new Image( );
+			holeSelected.src = imgPath + "hole_selected.png";
+			var QuestionTag = new Image( );
+			QuestionTag.src = imgPath + "cloud_draw.png";
+			
+			
+			// Game Variables
+			var GameSpeed = 1;			// loop( ) Speed
+			var soundEfx;
+			
+			var bgx = 0;				// background "x" position
+			var wormx = 20;				// Worm "x" Position
+			var wormy = 350;			// Worm "y" Position
+			var nApplex = 5700;			// Normal Apple "x" Position
+			var nAppley = 350;			// Normal Apple "y" Position
+			var AppleBitten = false;	// Is the apple bitten?
+			var congratsx = 700;		// Congrats Label "x" Position
+			var congratsy = 120;		// Congrats Label "y" Position
+			var congratsShowed = false;	// Is Congrats label shown?
+			//var jump = false;			// jumps?
+			//var jumpup = false;		// jumps?
+			//var falldown = false;		// falls?
+			var position = 0;			// position to calculate the next operation
+			var CloudPos = -200;		// position of mister cloud!
+			//var correct = 0;			// correct answers
+			var CurrentQuestion = "";	// Current question to be answered;
+			var CurrentQAnswer = 0;		// Answer of CurrentQuestion
+			var PlayerScore = 0;		// Game Player Score Points
+			var QIndex = 0;				
+			var QJindex = 0;				
+			var DEBUG = false;			// DEBUG TESTING PURPOSES !
+			
+			var Number1 = [ GetRNDInt( 10 ), GetRNDInt( 10 ), GetRNDInt( 10 ), GetRNDInt( 10 ), GetRNDInt( 10 ), GetRNDInt( 10 ) ];
+			var Number2 = [ GetRNDInt( 10 ), GetRNDInt( 10 ), GetRNDInt( 10 ), GetRNDInt( 10 ), GetRNDInt( 10 ), GetRNDInt( 10 ) ];
+			var Answers = [ Number1[0] + Number2[0], 
+							Number1[1] + Number2[1], 
+							Number1[2] + Number2[2], 
+							Number1[3] + Number2[3], 
+							Number1[4] + Number2[4], 
+							Number1[5] + Number2[5]
+						  ];
+			var QAnswered = [ false, false, false, false, false, false ];
+			var holeNumbers = [ MixUpArray( 0 ),
+								MixUpArray( 1 ),
+								MixUpArray( 2 ),
+								MixUpArray( 3 ),
+								MixUpArray( 4 ),
+								MixUpArray( 5 )
+							  ];
+									
+            function loop( ) {
+			
+				QIndex = Math.floor((-bgx)/800);
+				
+				if ( bgx > -5200 ) {
+					// Check if a key is pressed (ArrUp/ArrDown)
+					document.onkeydown = checkKey;
+					bgx -= GameSpeed;
+					nApplex -= GameSpeed;
+					position += GameSpeed;
+					
+					// TODO FIX THAT EQUATION!
+					if ( QIndex > 0 ) {
+						QJindex = QIndex - 1;
+						if ( ( -bgx > ( -800*( QJindex ) ) ) && ( !QAnswered[ QJindex ] ) ) { 
+							QAnswered[QJindex] = true;
+							if ( holeNumbers[QJindex][ GetAnswerByPosition( wormy ) - 1 ] === Answers[ QJindex ] ) { PlayerScore++; }
+						}
+					}
+					
+				}
+				else {
+					if ( wormx < 420 ) {
+						wormx+=1.5;
+					}
+					else {
+					
+						if ( !AppleBitten ) AppleBitten = true;
+						
+						if ( AppleBitten ) {
+							congratsShowed = true;
+							if ( congratsx > 220 ) { congratsx -= 5; }							
+							// if ( !jump ) { jumpup = true; jump = true; }
+						}
+						
+					}
+					
+				}
+				
+				// Make the worm jump from hapiness when it ate ;) !
+				/*if ( jumpup ) {
+					if ( wormy > 350 ) { wormy-=3; } else { falldown = true; jumpup = false; }
+				}
+				if ( falldown ) {
+					if ( wormy <= 250 ) { wormy+=3; } else { falldown = false; jumpup = true; }
+				}
+				*/
+				
+				drawImage( background, bgx, 0, 6000, 600 );
+				drawImage( background, bgx, 0, 6000, 600 );
+				drawImage( ( ( AppleBitten ) ? bApple : nApple ) , nApplex, nAppley, 50, 50 );
+				drawImage( worm, wormx, wormy, 70, 70 );
+				drawText( "Score: [" + PlayerScore + "]", 50, 50 );
+				drawTagWithQuestion( ( QIndex <= 5 ) ? Number1[QIndex] + "+" + Number2[QIndex] : "Τέλος!" );
+				
+				if ( congratsShowed ) { drawImage( congrats, congratsx, congratsy, 250, 230 ); }
+				
+				// DEBUG
+				if ( DEBUG ) {
+					drawText( "100", 100, 100 );
+					drawText( "200", 200, 200 );
+					drawText( "300", 300, 300 );
+					drawText( "WORMIE:" + wormx + ":" + wormy + " :: " + GetAnswerByPosition( wormy ) , wormx + 10, wormy - 10 );
+					drawText( "400", 400, 400 );
+					drawText( "500", 500, 500 );
+					drawText( "->" + GetAnswerByPosition( wormy ), 150, 150 );
+					//drawImage( ( GetAnswerByPosition( wormy ) == 1 ) ? holeSelected : hole, 500, 270, 120, 120 );
+					//drawImage( ( GetAnswerByPosition( wormy ) == 2 ) ? holeSelected : hole, 500, 375, 120, 120 );
+					//drawImage( ( GetAnswerByPosition( wormy ) == 3 ) ? holeSelected : hole, 500, 480, 120, 120 );
+				
+				}
+
+				for ( i = 1; i < 7; i ++ ) {
+					drawHoleWithNum( "" + holeNumbers[i-1][0] , i*800 - position, 270, ( GetAnswerByPosition( wormy ) == 1 ) );
+					drawHoleWithNum( "" + holeNumbers[i-1][1] , i*800 - position, 375, ( GetAnswerByPosition( wormy ) == 2 ) );
+					drawHoleWithNum( "" + holeNumbers[i-1][2] , i*800 - position, 480, ( GetAnswerByPosition( wormy ) == 3 ) );
+				}	
+			}
+			
+			function MixUpArray( index ) {
+				var MixedArray = [ 0, 0, 0 ];
+				var tmp = false;
+				var CorrectAnswer = Number1[index] + Number2[index];
+				var tmpInt = CorrectAnswer;
+				var tmpInt2 = CorrectAnswer;
+				var CorrectIndex = Math.floor(Math.random() * 3);
+				var j = 0;
+				
+				MixedArray[CorrectIndex] = CorrectAnswer;
+
+				while ( tmpInt === CorrectAnswer && tmpInt2 === CorrectAnswer) {
+					tmpInt = GetRNDInt( 20 );
+					tmpInt2 = GetRNDInt( 20 );
+				}
+				for ( i = 0 ; i < 3; i++ ) {
+					if ( i === CorrectIndex ) continue;
+					if ( j === 0 ) MixedArray[i] = tmpInt;
+					else MixedArray[i] = tmpInt2;
+					j++;
+				}
+				
+				return MixedArray;
+			}
+			
+			function GetRNDInt( max ) { return Math.floor(Math.random() * max); }
+			
+			function drawHoleWithNum( num, x, y , selected ) {
+				drawImage( ( selected ) ? holeSelected : hole , x, y, 120, 120 );
+				drawText( num , x + 40 , y + 65 );
+			}
+			
+			function drawTagWithQuestion( text  ) {
+				if ( CloudPos <= 250 ) CloudPos+=5;
+				drawImage( QuestionTag, CloudPos, 10, 180, 120 );
+				drawText( text , CloudPos + 100 , 40 );
+			}
+			
+			function checkKey(e) {
+
+				e = e || window.event;
+				
+				if (e.keyCode == '38') {
+					// Up arrow
+					if ( wormy > 275 && !AppleBitten ) {
+						wormy-=10;
+					}
+				}
+				else if (e.keyCode == '40') {
+					// down arrow
+					if ( wormy < 510 && !AppleBitten ) {
+						wormy+=10;
+					}
+				}
+				/*else if (e.keyCode == '77') {
+					soundEfx.pause( );
+				}
+				else if (e.keyCode == '37') {
+				   // Left arrow
+				   // DEBUG USAGE
+				}
+				else if (e.keyCode == '39') {
+				   // Right arrow
+				   // DEBUG USAGE
+				}*/
+				e.preventDefault();
+			}
+			
+			function GetAnswerByPosition( position ) {
+				
+				if ( position >= 270 && position < 370 ) { return 1; }
+				else if ( position >= 370 && position < 480 ) { return 2; }
+				else { return 3; }
+				
+			}
+			
+			function Skip( ) {
+				
+			}
+			
+			
+			function LoadData( ) {
+				var soundEfx = document.getElementById("soundEfx");
+				soundEfx.src = "sound/music.mp3";
+				soundEfx.play( );
+			}
+			
+        </script>
+    </head>
+    <body onLoad="javascript:LoadData( )">
+        <canvas id="canvas" width="700px" height="600px" ondblclick="javascript:Skip( )">
+			Δυτυχώς ο Φυλλομετρητής σας δεν υποστηρίζει HTML 5 Canvas :( !
+        </canvas>
+		<audio id="soundEfx" src="sound/music.mp3" style="display: none;"></audio>
+    </body>
+</html>
