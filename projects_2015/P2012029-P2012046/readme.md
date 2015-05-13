@@ -27,4 +27,4 @@
 
 >-Βασικά στοιχεία εφαρμογής
 
-![alt tag]axax(https://github.com/PantelisIoannou/images/blob/master/%CE%A4%CE%B5%CF%87%CE%BD%CE%BF%CE%BB%CE%BF%CE%B3%CE%AF%CE%B1-%CE%9B%CE%BF%CE%B3%CE%B9%CF%83%CE%BC%CE%B9%CE%BA%CE%BF%CF%8D.pdf)
+![axaxaxax](https://github.com/PantelisIoannou/images/blob/master/%CE%A4%CE%B5%CF%87%CE%BD%CE%BF%CE%BB%CE%BF%CE%B3%CE%AF%CE%B1-%CE%9B%CE%BF%CE%B3%CE%B9%CF%83%CE%BC%CE%B9%CE%BA%CE%BF%CF%8D.pdf)
