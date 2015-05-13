@@ -8,6 +8,8 @@
 
 ###Παραδοτέο 2
 Αρχική Οθόνη Εφαρμογής
+
+
 ![alt tag](https://raw.githubusercontent.com/PantelisIoannou/images/master/img.png)
 
 ###Παραδοτέο 3
