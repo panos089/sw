@@ -20,7 +20,7 @@
 ![alt tag](https://raw.githubusercontent.com/PantelisIoannou/images/master/Screenshot_2015-05-13-20-30-14.png)
 ###Παραδοτέο 3
 >-Κομμάτι κώδικα
-![alt tag](https://raw.githubusercontent.com/PantelisIoannou/images/master/Kommati.png)
+![alt tag](https://raw.githubusercontent.com/PantelisIoannou/images/master/Kommati.jpg)
 >...
 
 ###Παραδοτέο 4
