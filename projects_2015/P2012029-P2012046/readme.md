@@ -13,7 +13,7 @@
 >-Αρχική Οθόνη Εφαρμογής
 
 
-![alt tag](https://raw.githubusercontent.com/PantelisIoannou/images/master/img.png)
+![alt tag](https://raw.githubusercontent.com/PantelisIoannou/images/master/Screenshot_2015-05-13-20-17-43.png)
 
 ###Παραδοτέο 3
 >-Κομμάτι κώδικα
