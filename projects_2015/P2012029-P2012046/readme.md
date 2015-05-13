@@ -24,9 +24,9 @@
 ![alt tag](https://raw.githubusercontent.com/PantelisIoannou/images/master/Kommati.jpg)
 ###Παραδοτέο 3
 
-####Λειτουργία Εφαρμογής
+####-Λειτουργία Εφαρμογής
 
-###-Tελική Αναφορά
+###Tελική Αναφορά
 
 >-Το παρακάτω pdf εξηγεί τα βασικά στοιχεία της εφαρμογής
 
