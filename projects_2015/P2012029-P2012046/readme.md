@@ -15,8 +15,8 @@
 
 ![alt tag](https://raw.githubusercontent.com/PantelisIoannou/images/master/Screenshot_2015-05-13-20-17-43.png)
 
+>-Τελική Οθόνη εφαρμογής 
 
->-Τελική Οθόνη εφαρμογής
 ![alt tag](https://raw.githubusercontent.com/PantelisIoannou/images/master/Screenshot_2015-05-13-20-30-14.png)
 ###Παραδοτέο 3
 >-Κομμάτι κώδικα
