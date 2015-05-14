@@ -48,13 +48,13 @@ wifiConfig.preSharedKey = String.format("\"%s\"", password);
 > με το να σκανάρει ο χρήστης ένα Qr Code.
 
 ### Εργαλεία που επιλέχθηκαν
-> -eclipse και android sdk για την δημιουργία της εφαρμογής.
-> -digital ocean για την δημιουργία βάσης δεδομένων. (Προσφέρεται απο το github student pack)
-> -atom, ένας text editor που βοηθάει στην δημιουργία ιστοσελίδων. 
+> *eclipse και android sdk για την δημιουργία της εφαρμογής.
+> *digital ocean για την δημιουργία βάσης δεδομένων. (Προσφέρεται απο το github student pack)
+> *atom, ένας text editor που βοηθάει στην δημιουργία ιστοσελίδων. 
 > Διότι έχει επιλογή να φαίνονται όλοι οι φακέλοι. (Προσφέρεται απο το github student pack)
-> -okeanos για την δημιουργία VM για τη φιλοξενία της ιστοσελίδας.
-> -noip.com για το δωρεάν domain name [qrfi.noip.me!](http://qrfi.noip.me/qrfi/).
-> -git hub για την ανάπτυξη της εφαρμογής.
+> *okeanos για την δημιουργία VM για τη φιλοξενία της ιστοσελίδας.
+> *noip.com για το δωρεάν domain name [qrfi.noip.me!](http://qrfi.noip.me/qrfi/).
+> *git hub για την ανάπτυξη της εφαρμογής.
 
 ### Διάγραμμα Λειτουργίας Συστήματος
 > Αρχικά ο κάθε καταστηματάρχης πρέπει να κάνει εγγραφή στο site μας.
