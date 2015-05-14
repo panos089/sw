@@ -22,7 +22,7 @@
 >-Κομμάτι κώδικα
 
 ![alt tag](https://raw.githubusercontent.com/PantelisIoannou/images/master/Kommati.jpg)
-###Παραδοτέο 3
+
 
 
 ###Tελική Αναφορά
