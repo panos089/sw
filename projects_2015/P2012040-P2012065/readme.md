@@ -39,7 +39,9 @@ wifiConfig.preSharedKey = String.format("\"%s\"", password);
 
 ####Image
 
-![alt tag](https://raw.githubusercontent.com/Kitsopappas/Qr-Fidelity/master/images/img1.jpg)
+![alt tag](https://raw.githubusercontent.com/Kitsopappas/Qr-Fidelity/master/images/Screenshot_2015-05-14-09-20-58.png)
+![alt tag](https://raw.githubusercontent.com/Kitsopappas/Qr-Fidelity/master/images/Screenshot_2015-05-14-09-21-38.png)
+![alt tag](https://raw.githubusercontent.com/Kitsopappas/Qr-Fidelity/master/images/Screenshot_2015-05-14-09-22-12.png)
 
 ## 3ο Παραδοτέο
 >...........
