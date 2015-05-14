@@ -24,8 +24,6 @@
 ![alt tag](https://raw.githubusercontent.com/PantelisIoannou/images/master/Kommati.jpg)
 ###Παραδοτέο 3
 
-#####-Λειτουργία Εφαρμογής
->-Η συγκεκριμένη εφαρμογή δέχεται μια αλληλουχία DNA.Πραγματοποιεί τρείς βασικές λειτουργίες 
 
 ###Tελική Αναφορά
 
