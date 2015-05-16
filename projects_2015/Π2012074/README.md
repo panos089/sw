@@ -52,6 +52,16 @@ Upgrade the infrastructure of the existing FluTrack project with a scalable back
   </p>
 </div>
 
+<div id='usage'>
+  <h2>Usage - Benchmark</h2>
+  <ul>
+    <li>Χρόνος: 0:53:33</li>
+    <li>Όγκος (MB): 21985264.0</li>
+    <li>Πλήθος (#tweets): 8232</li>
+    <img src='http://users.ionio.gr/~p12gian1/time-storage.png'><br>
+  </ul>
+</div>
+
 <div id='description-dataflow'>
   <h2>Περιγραφή ροής δεδομένων και ερωτήματος</h2>
   <ul>
