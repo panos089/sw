@@ -47,6 +47,7 @@ Upgrade the infrastructure of the existing FluTrack project with a scalable back
       <li>Γλώσσα Προγραμματισμού: Python</li>
       <li>Βάση Δεδομένων: MongoDB</li>
       <li>REST API: Django</li>
+      <li>Twitter Streaming: Tweepy</li>
     </ul>
   </p>
 </div>
