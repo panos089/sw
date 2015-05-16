@@ -51,3 +51,20 @@ Upgrade the infrastructure of the existing FluTrack project with a scalable back
     </ul>
   </p>
 </div>
+
+<div id='description-dataflow'>
+  <h2>Περιγραφή ροής δεδομένων και ερωτήματος</h2>
+  <h3>Ροή (Data flow)</h3>
+  <ul>
+    <li>Συλλογή δεδομένων σε πραγματικό χρόνο με το πακέτο Tweepy</li>
+    <li>Μετασχηματισμός της κάθε αναφοράς/tweet στην επιθυμητή δομή (field structure)</li>
+    <li>Εισαγωγή στο MongoDB</li>
+  </ul>
+  <h3>Ερώτημα (Query)</h3>
+  <ul>
+    <li>Αποστολή ερωτήματος από το χρήστη μέσω του REST Service με τις παραμέτρους s, limit και time.</li>
+    <li>Text search στη βάση Mongo</li>
+    <li>Επιστροφή αποτελέσματος στο χρήστη σε μορφή json</li>
+  </ul>
+
+</div>
