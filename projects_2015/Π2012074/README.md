@@ -58,7 +58,14 @@ Upgrade the infrastructure of the existing FluTrack project with a scalable back
     <li>Χρόνος: 0:53:33</li>
     <li>Όγκος (MB): 21985264.0</li>
     <li>Πλήθος (#tweets): 8232</li>
-    <img src='http://users.ionio.gr/~p12gian1/time-storage.png'><br>
+    <li>
+      <p>Time - Storage διάγραμμα</p>
+      <img src='http://users.ionio.gr/~p12gian1/time-storage.png'><br>
+    </li>
+    <li>
+      <p>Time - #Tweets διάγραμμα</p>
+      <img src='http://users.ionio.gr/~p12gian1/time-tweets.png'><br>
+    </li>
   </ul>
 </div>
 
