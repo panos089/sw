@@ -83,7 +83,7 @@ Upgrade the infrastructure of the existing FluTrack project with a scalable back
     <li>
       <h3>Ερώτημα (Query)</h3>
       <ul>
-        <li>Αποστολή ερωτήματος από το χρήστη μέσω του REST Service με τις παραμέτρους s, limit και time.</li>
+        <li>Αποστολή ερωτήματος από το χρήστη μέσω του REST Service με τις παραμέτρους <code>s</code>, <code>limit</code> και <code>time</code>.</li>
         <li>Text search στη βάση Mongo</li>
         <li>Επιστροφή αποτελέσματος στο χρήστη σε μορφή json</li>
       </ul>
