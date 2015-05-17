@@ -56,7 +56,7 @@ Upgrade the infrastructure of the existing FluTrack project with a scalable back
   <h2>Usage - Benchmark</h2>
   <ul>
     <li>Χρόνος: 0:53:33</li>
-    <li>Όγκος (MB): 21985264.0</li>
+    <li>Όγκος (MB): 21.98</li>
     <li>Πλήθος (#tweets): 8232</li>
     <li>
       <p>Time - Storage διάγραμμα</p>
