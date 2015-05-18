@@ -2,7 +2,7 @@
 Αργυρόπουλος Γιώργος
 Π2012018
 
-##τελικο παραδοτεο
+##Τελικο παραδοτεο
 [Question game (scratch)] (https://scratch.mit.edu/projects/62908034/)
 
 
