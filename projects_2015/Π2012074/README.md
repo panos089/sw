@@ -91,3 +91,19 @@ Upgrade the infrastructure of the existing FluTrack project with a scalable back
   </ul>
 
 </div>
+
+<div id="project-link">
+  <h2>Project Link</h2>
+  <p>Το project βρίσκεται στο repository 
+    <a     href='https://github.com/flutrack/Mongodb_implementation'>Mongodb_Implementation</a> μαζί με τις οδηγίες                εγκατάστασης. Οι οδηγίες επιπλέον υπάρχουν παρακάτω</p>
+</div>
+
+<div id="instructions">
+  <h2>Οδηγίες Εγκατάστασης</h2>
+  <ul>
+    <li>Install MongoDB: sudo apt-get install mongodb</li>
+    <li>Install Django: sudo pip install django djangorestframework</li>
+    <li>Clone the project</li>
+    <li>Run: python API/manage.py runserver</li>
+  </ul>
+</div>
