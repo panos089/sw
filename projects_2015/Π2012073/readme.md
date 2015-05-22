@@ -23,3 +23,7 @@ O χρήστης επιλέγει με τα πλήκτρα πάνω και κά�
 Ο χρήστης κάνωντας κλικ στο κουμπί Hide Help απομακρύνει την βοηθητική οθόνη και προσπαθεί να "ρίξει" την μπάλα στην τρύπα.
 
 ![alt tag](https://github.com/AchillesNikolaou/LearnToCode/blob/master/screenshots/3.png)
+
+Αφού ο χρήστης επιτύχει το σκοπό του ξεκινά το δεύτερο επίπεδο και εμφανίζεται η βοηθητική οθόνη του δευτέρου επιπέδου.
+
+![alt tag](https://github.com/AchillesNikolaou/LearnToCode/blob/master/screenshots/4.png)
