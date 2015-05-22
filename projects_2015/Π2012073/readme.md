@@ -29,3 +29,5 @@ O χρήστης επιλέγει με τα πλήκτρα πάνω και κά�
 ![alt tag](https://github.com/AchillesNikolaou/LearnToCode/blob/master/screenshots/4.png)
 
 Αυτή τη φορά ο χρήστης πρέπει να τοποθετήσει τα γράμματα που εμφανίζονται στην πάνω αριστερή γωνία της οθόνης μέσα στο πλαίσιο και να σχηματίσει τη λέξη "Java".
+
+![alt tag](https://github.com/AchillesNikolaou/LearnToCode/blob/master/screenshots/5.png)
