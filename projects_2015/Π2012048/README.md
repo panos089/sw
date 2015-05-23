@@ -81,14 +81,13 @@
 Παρακάτω υπάρχουν ενδεικτικές οθόνες απο την android εφαρμογή:
 
 Αρχικά η οθόνη με τις χώρες:
-![] (img/countries.png?raw=true =100x20)
-
-Δύο οθόνες με τα trend απο διαφορετικές χώρες
-![] (img/trends_gr.png?raw=true =100x20)
-![] (img/trends_ir.png?raw=true =100x20)
-Και τέλος δύο οθόνες απο τα αντίστοιχα tweet των trend
-![] (img/tweet_gr.png?raw=true =100x20)
-![] (img/tweet_ir.png?raw=true =100x20)
+![] (img/countries.png?raw=true)
+Δύο οθόνες με τα trend απο διαφορετικές χώρες:
+![] (img/trends_gr.png?raw=true)
+![] (img/trends_ir.png?raw=true)
+Και τέλος δύο οθόνες απο τα αντίστοιχα tweet των trend:
+![] (img/tweet_gr.png?raw=true)
+![] (img/tweet_ir.png?raw=true)
 
 
 #### Συμπεράσματα & Ιδέες για επεκτάσεις/βελτιώσεις
