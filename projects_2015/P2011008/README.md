@@ -7,6 +7,9 @@ such as BBC , CNN and others.The flow of information will be represented by dire
 users doing the retweets and the followers of the news corporation by which the tweet was posted, that feature will add an extra
 functionality to the visualization , namely the geographical representation of the active followers the posting corporation has.
 
+the source code is located in my repository
+link below
+
 ###[My repository](https://github.com/maliaris7/news-spread-based-twittter-visualization.git)
 
 ##Τελική αναφορά:
