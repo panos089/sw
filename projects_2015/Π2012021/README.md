@@ -37,13 +37,21 @@ AM: Π2012021
 
 Η αρχική οθόνη της εφαρμογής και οι λειτουργίες που περιέχει.
 
+![alt tag](https://github.com/gpasxalis/gpasxalisRepository/blob/master/screenshot/%CE%BF%CE%B8%CF%8C%CE%BD%CE%B7%20%CE%B5%CF%86%CE%B1%CF%81%CE%BC%CE%BF%CE%B3%CE%AE%CF%82.jpg)
 
 Τα blocks της εφαρμογής.
+
+![alt tag](https://github.com/gpasxalis/gpasxalisRepository/blob/master/screenshot/appblocks1.jpg)
+![alt tag](https://github.com/gpasxalis/gpasxalisRepository/blob/master/screenshot/appblocks2.jpg)
+![alt tag](https://github.com/gpasxalis/gpasxalisRepository/blob/master/screenshot/appblocks3.jpg)
 
 
 
 ####Συμπεράσματα
 
 Μετά την ολοκλήρωση της υλοποίησης της εφαρμογής κατανοήθηκε η λειτουργία του εργαλείου MIT app inventor 2 και των λειτουργιών που παρέχει. Σε γενικές γραμμές με την παρακολούθηση κάποιων ενδεικτικών βίντεο στο youtube και την αναζήτηση tutorials στο internet μπορείς να δημιουργήσεις πολύ καλά πράγματα στο app inventor χωρίς να έχεις γνώσεις προγραμματισμού μιας και το εργαλείο το συγκεκριμένο χρησιμοποιεί blocks για να φτιάξεις μια λειτουργία κτλ. Επίσης πιστεύω οτι άμα δεν υπήρχαν κάποια μειονεκτήματα που ανέφερα πιο πάνω θα ήταν σχεδόν τέλειο για την δημιουργία μιας εφαρμογής για ένα smartphone.
+
+
+Τα αρχεία apk για την εγκατάσταση της εφαρμογής στο κινητό αλλα και ολόκληρο το project σε aia αρχείο έτσι ώστε να γίνει import στο app inventor και να δείτε τα blocks αλλα και την οθόνη της εφαρμογής αλλα και τα περιεχόμενά της βρίσκονται [εδώ](https://github.com/gpasxalis/gpasxalisRepository)
 
 
