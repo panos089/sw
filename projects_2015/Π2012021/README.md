@@ -37,7 +37,6 @@ AM: Π2012021
 
 Η αρχική οθόνη της εφαρμογής και οι λειτουργίες που περιέχει.
 
-![alt tag](https://github.com/gpasxalis/gpasxalisRepository/blob/master/screenshot/%CE%BF%CE%B8%CF%8C%CE%BD%CE%B7%20%CE%B5%CF%86%CE%B1%CF%81%CE%BC%CE%BF%CE%B3%CE%AE%CF%82.jpg)
 
 Τα blocks της εφαρμογής.
 
