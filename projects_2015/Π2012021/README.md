@@ -41,9 +41,6 @@ AM: Π2012021
 
 Τα blocks της εφαρμογής.
 
-![alt tag](https://github.com/gpasxalis/gpasxalisRepository/blob/master/screenshot/appblocks1.jpg)
-![alt tag](https://github.com/gpasxalis/gpasxalisRepository/blob/master/screenshot/appblocks2.jpg)
-![alt tag](https://github.com/gpasxalis/gpasxalisRepository/blob/master/screenshot/appblocks3.jpg)
 
 
 ####Συμπεράσματα
