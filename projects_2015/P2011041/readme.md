@@ -38,6 +38,7 @@
 > Κατά τη δημιουργία:
 
 ![alt tag](https://raw.githubusercontent.com/Kitsopappas/rand_img/master/img1.png)
+>
 > Και το τελικό παιχνίδι:
 ![alt tag](https://raw.githubusercontent.com/Kitsopappas/rand_img/master/img2.png)
 ![alt tag](https://raw.githubusercontent.com/Kitsopappas/rand_img/master/img3.png)
