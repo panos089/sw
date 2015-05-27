@@ -7,6 +7,8 @@ such as BBC , CNN and others.The flow of information will be represented by dire
 users doing the retweets and the followers of the news corporation by which the tweet was posted, that feature will add an extra
 functionality to the visualization , namely the geographical representation of the active followers the posting corporation has.
 
+###[newsflow website](http://83.212.97.224:8080/newsflow/home.html)
+
 the source code is located in my repository
 link below
 
@@ -32,7 +34,7 @@ link below
 Αναλυτικότερα το server side αναλαμβάνει την συλλογή των δεδομένων (tweet metadata)
 και την κατάλληλη μορφοποίηση αυτών. Συγκεκριμένα η συλλογή των  δεδομένων γίνετε 
 με την βοήθεια του Twitter rest API , η μορφοποίηση περιλαμβάνει την επιλογή τμημάτων του
-metadata (διευθύνσεις ) με κατάλληλη μορφή και αποθήκευση αυτών σε temporary αρχείο μορφής json. To αρχείο αυτό δημιουργείτε για κάθε ειδησεογραφικό οργανισμό και αντικαθιστάτε κάθε μία ωρα (χρήση sceduler windows για εκτέλεση backend.php ανα μία ώρα).Το client side τμήμα αναλαμβάνει την φόρτωση των διευθύνσεων απο τον server μέσω
+metadata (διευθύνσεις ) με κατάλληλη μορφή και αποθήκευση αυτών σε temporary αρχείο μορφής json. To αρχείο αυτό δημιουργείτε για κάθε ειδησεογραφικό οργανισμό και αντικαθιστάτε κάθε 3 ώρες (χρήση online chronjob για εκτέλεση backend.php ανα 3 ώρες).Το client side τμήμα αναλαμβάνει την φόρτωση των διευθύνσεων απο τον server μέσω
 AJAX , άλλη μία λειτουργία του είναι η μετατροπή των διευθύνσεων σε latitude & longitudeμε την χρήση του Geocoding API, επίσης αναλαμβάνει την οπτικοποίηση ανάλογα με την επιλογή του χρήστη χρησιμοποιώντας  το Google Maps Javascript API.
 
 ###Διάγραμμα αρχιτεκτονικής
