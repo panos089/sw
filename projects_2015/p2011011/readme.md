@@ -50,7 +50,7 @@
 
 > Ενδεικτικές οθόνες  
 
-![alt tag](https://www.dropbox.com/s/4qg33wh5enuh454/1.jpg?dl=0)
+![alt tag](https://photos-2.dropbox.com/t/2/AADXuyGrR6IEb_bKHr5YbI45ZfULpYA4H-_HgfNE6gJlMA/12/227443907/jpeg/32x32/1/_/1/2/1.jpg/CMOJumwgASACIAMgBCAFIAYoAQ/RCyxlEqteUR8bA9Ion0XRELECcH_FaebsgMHm_zmKPY?size=1280x960&size_mode=2)
 ![alt tag](https://www.dropbox.com/s/4qg33wh5enuh454/2.jpg?dl=0)
 ![alt tag](https://www.dropbox.com/s/4qg33wh5enuh454/3.jpg?dl=0)
 
