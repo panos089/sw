@@ -51,8 +51,8 @@
 > Ενδεικτικές οθόνες  
 
 ![alt tag](https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xaf1/t31.0-8/10535016_1080560531968047_5971683910971810433_o.jpg)
-![alt tag](https://www.dropbox.com/s/4qg33wh5enuh454/2.jpg?dl=0)
-![alt tag](https://www.dropbox.com/s/4qg33wh5enuh454/3.jpg?dl=0)
+![alt tag](https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-xap1/v/t1.0-9/s720x720/11351151_1080560545301379_3341053567299630164_n.jpg?oh=68516bb2069467c9dcd4007032759877&oe=5604C772&__gda__=1442575690_6b08798c752be56013f9df2090d00753)
+![alt tag](https://scontent-mxp1-1.xx.fbcdn.net/hphotos-xaf1/v/t1.0-9/s720x720/11351118_1080560578634709_2295858835398437795_n.jpg?oh=7463b81d92b89c8d49930563e37a3af3&oe=560B4858)
 
 > Συμπεράσματα
 
