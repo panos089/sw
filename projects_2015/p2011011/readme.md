@@ -48,7 +48,11 @@
 
 > Τα μυθικά πλάσματα είναι 11 και στο τέλος εμφανίζεται η Θεά Αθηνά που σου δίνει και την ελευθερία σου.
 
-> Ενδεικτικές οθόνες   
+> Ενδεικτικές οθόνες  
+
+> [alt tag](https://www.dropbox.com/s/4qg33wh5enuh454/1.jpg?dl=0)
+> [alt tag](https://www.dropbox.com/s/4qg33wh5enuh454/2.jpg?dl=0)
+> [alt tag](https://www.dropbox.com/s/4qg33wh5enuh454/3.jpg?dl=0)
 
 > Συμπεράσματα
 
