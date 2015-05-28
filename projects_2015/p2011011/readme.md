@@ -24,7 +24,7 @@
 
 >Επιλογή εργαλείων
 
->Τα εργαλεία ποθ χρησημοποιηθήκανε είναι το scratch και το online πρόγραμμα Lunapic για να κάνω τα sprites transparent.
+>Τα εργαλεία που χρησιμοποιήθηκαν είναι το scratch και το online πρόγραμμα Lunapic για να κάνω τα sprites transparent.
 
 >Διαδικασία ανάπτυξης
 
@@ -50,7 +50,7 @@
 
 > Ενδεικτικές οθόνες  
 
-![alt tag](https://photos-2.dropbox.com/t/2/AADXuyGrR6IEb_bKHr5YbI45ZfULpYA4H-_HgfNE6gJlMA/12/227443907/jpeg/32x32/1/_/1/2/1.jpg/CMOJumwgASACIAMgBCAFIAYoAQ/RCyxlEqteUR8bA9Ion0XRELECcH_FaebsgMHm_zmKPY?size=1280x960&size_mode=2)
+![alt tag](https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xaf1/t31.0-8/10535016_1080560531968047_5971683910971810433_o.jpg)
 ![alt tag](https://www.dropbox.com/s/4qg33wh5enuh454/2.jpg?dl=0)
 ![alt tag](https://www.dropbox.com/s/4qg33wh5enuh454/3.jpg?dl=0)
 
