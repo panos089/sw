@@ -59,7 +59,8 @@ https://scratch.mit.edu/projects/63686196/
 
 Ενδεικτικές οθόνες 
 --------------------------
-####### http://prntscr.com/7axln6
+#######
+http://prntscr.com/7axln6
 ####### http://prntscr.com/7axmcn
 ####### http://prntscr.com/7axmtg
 ####### http://prntscr.com/7axn0m
