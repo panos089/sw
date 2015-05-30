@@ -25,7 +25,7 @@
 
 ##Διάγραμμα λειτουργίας συστήματος.
 
-    Το παρακάτων διάγραμμα απεικονίζει τις λειτουργίες της εφαρμογής.
+    Το παρακάτω διάγραμμα απεικονίζει τις λειτουργίες της εφαρμογής.
 	
-	![screenshot](https://github.com/AnnaKv/screenshots/blob/95756557c07ae2f1911aa6be995b75d34dd7623b/annas/diagramma.jpg)
+	![screenshot](https://raw.githubusercontent.com/AnnaKv/screenshots/master/annas/diagramma.jpg)
 Η υλοποίηση του διαγράμματος πραγματοποιήθηκε μέσω του Visio 2013.
