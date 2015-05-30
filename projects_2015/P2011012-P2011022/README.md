@@ -1,7 +1,7 @@
 
-<h2>Θέμα Εργασίας:<h2>
+<h2>Θέμα Εργασίας:</h2>
 
-*Twitter and Google News based D3.js visualization on political events
+*Twitter and Google News based D3.js visualization on political events*
 
 A force layout visualization on current "Hot" events. Data source will be twitter search content based on Google news headlines.
 The nodes will represent each entity's political origin ,the entity itself and the tweets posted for it respectively. The entire 
