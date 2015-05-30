@@ -23,7 +23,7 @@ To frontend της εφαρφμογής δημιουργεί τον χάρτη �
 
 ###Διάγραμμα λειτουργίας συστήματος
 
-![alt tag](https://github.com/courses-ionio/sw/blob/master/projects_2015/Π2011030/img/Διάγραμμα%20λειτουργίας%20συστήματος.001.jpg)
+![Διάγραμμα λειτουργίας συστήματος](https://github.com/courses-ionio/sw/blob/master/projects_2015/Π2011030/img/Διάγραμμα%20λειτουργίας%20συστήματος.001.jpg)
 
 ###Συμπεράσματα
 
