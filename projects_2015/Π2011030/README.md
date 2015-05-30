@@ -2,7 +2,7 @@
 Παναγιώτης Μπλέτσος
 Π2011030
 
-###[Timeline Of Eurozone Crisis - Website](http://http://83.212.123.239)
+###[Timeline Of Eurozone Crisis - Website](http://83.212.123.239)
 
 ###[Source Code](https://github.com/Panagiotis-Bletsos/Timeline_Of_Eurozone_Crisis-Twitter_Visualization)
 
@@ -23,7 +23,7 @@ To frontend της εφαρφμογής δημιουργεί τον χάρτη �
 
 ###Διάγραμμα λειτουργίας συστήματος
 
-![alt tag](https://photos-6.dropbox.com/t/2/AAALDX21Hmizo_PsdUTmg-l_lrb9nCnozph1f8trepWBEA/12/55267439/jpeg/32x32/1/_/1/2/Διάγραμμα%20λειτουργίας%20συστήματος.001.jpg/CO-grRogASACIAMgBCAFIAYgBygBKAI/hhGDFWlGalcRYnILWpX_bcsGvKudqdHQxDa-oOO6krU?size=1280x960&size_mode=2)
+![alt tag](https://github.com/courses-ionio/sw/blob/master/projects_2015/Π2011030/img/Διάγραμμα%20λειτουργίας%20συστήματος.001.jpg)
 
 ###Συμπεράσματα
 
@@ -31,6 +31,6 @@ To frontend της εφαρφμογής δημιουργεί τον χάρτη �
 
 ###Screenshots
 
-![alt tag](https://photos-5.dropbox.com/t/2/AADu4NkVaLskUJaywY2ulXhGxVQFbqVhgnxymRKGoqQxmQ/12/55267439/png/32x32/1/_/1/2/Screen%20Shot%202015-05-31%20at%2000.48.13.png/CO-grRogASACIAMgBCAFIAYgBygBKAI/3OZmV9I7QYGF7xgS7XxRgqzbfnfBnUWBySjP1RnWCyY?size=1280x960&size_mode=2)
+![Screenshot-1](https://raw.githubusercontent.com/courses-ionio/sw/master/projects_2015/Π2011030/img/Screen%20Shot%202015-05-31%20at%2000.48.13.png)
 
-![alt tag](https://photos-6.dropbox.com/t/2/AADm01zCMjPjIEmHLYiiZZIaUUN4WJwG0F__tSZxT0dZgQ/12/55267439/png/32x32/1/_/1/2/Screen%20Shot%202015-05-31%20at%2000.48.29.png/CO-grRogASACIAMgBCAFIAYgBygBKAI/QD3CPQAsLry7QbpygEgM5KOxO8LS4iVApiPf5cABllw?size=1280x960&size_mode=2)
+![Screenshot-2](https://github.com/courses-ionio/sw/blob/master/projects_2015/Π2011030/img/Screen%20Shot%202015-05-31%20at%2000.48.29.png)
