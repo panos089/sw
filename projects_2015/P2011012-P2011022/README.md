@@ -1,7 +1,7 @@
 
 <h2>Θέμα Εργασίας:<h2>
 
-<h3>Twitter and Google News based D3.js visualization on political events<h3>
+<h3>Twitter and Google News based D3.js visualization on political events</h3>
 
 A force layout visualization on current "Hot" events. Data source will be twitter search content based on Google news headlines.
 The nodes will represent each entity's political origin ,the entity itself and the tweets posted for it respectively. The entire 
@@ -9,3 +9,23 @@ visualization is in realtime and it is also storing it's snapshots periodically.
 
 
 [My repository](https://github.com/skid648/Twitter-and-google-news-based-visualization)
+
+
+<h2>Final Report</h2>
+
+<h3>Title</h3>
+
+<h4>Summary</h4>
+
+<h4>Introduction</h4>
+
+<h4>Tools</h4>
+
+<h4>Development Process </h4>
+
+<h4>Application Diagram</h4>
+
+<h4>Screenshots</h4>
+
+<h4>Conlusions</h4>
+
