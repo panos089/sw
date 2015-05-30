@@ -1,13 +1,13 @@
 
-[My repository](https://github.com/skid648/Twitter-and-google-news-based-visualization)
-
-
 <h2>Final Report</h2>
 
 
 <h3>Twitter and Google News based D3.js visualization on political events</h3>
 
-Url: http://83.212.97.224:8080/nodenews/frontend/
+[Online](http://83.212.97.224:8080/nodenews/frontend/)
+
+
+[My repository](https://github.com/skid648/Twitter-and-google-news-based-visualization)
 
 <h4>Summary</h4>
 
