@@ -23,7 +23,7 @@ To frontend της εφαρφμογής δημιουργεί τον χάρτη �
 
 ###Διάγραμμα λειτουργίας συστήματος
 
-![alt tag](https://www.dropbox.com/s/yce26q5ux2fso4l/%CE%94%CE%B9%CE%AC%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%B1%20%CE%BB%CE%B5%CE%B9%CF%84%CE%BF%CF%85%CF%81%CE%B3%CE%AF%CE%B1%CF%82%20%CF%83%CF%85%CF%83%CF%84%CE%AE%CE%BC%CE%B1%CF%84%CE%BF%CF%82.001.jpg?dl=0)
+![alt tag](https://www.dropbox.com/s/yce26q5ux2fso4l/%CE%94%CE%B9%CE%AC%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%B1%20%CE%BB%CE%B5%CE%B9%CF%84%CE%BF%CF%85%CF%81%CE%B3%CE%AF%CE%B1%CF%82%20%CF%83%CF%85%CF%83%CF%84%CE%AE%CE%BC%CE%B1%CF%84%CE%BF%CF%82.001.jpg)
 
 ###Συμπεράσματα
 
@@ -31,6 +31,6 @@ To frontend της εφαρφμογής δημιουργεί τον χάρτη �
 
 ###Screenshots
 
-![alt tag](https://www.dropbox.com/s/woz54z5zi4ssf7b/Screen%20Shot%202015-05-31%20at%2000.48.13.png?dl=0)
+![alt tag](https://www.dropbox.com/s/woz54z5zi4ssf7b/Screen%20Shot%202015-05-31%20at%2000.48.13.png)
 
-![alt tag](https://www.dropbox.com/s/hjxxa3mpbxw4y0j/Screen%20Shot%202015-05-31%20at%2000.48.29.png?dl=0)
+![alt tag](https://www.dropbox.com/s/hjxxa3mpbxw4y0j/Screen%20Shot%202015-05-31%20at%2000.48.29.png)
