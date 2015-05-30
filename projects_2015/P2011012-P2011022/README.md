@@ -72,3 +72,6 @@ That is the basic structure of app's backend. In Addition to this a cronjob was 
 
 <h4>Conlusions</h4>
 
+After a few days of using and trying to improve the application in the same time, we finally achieved to collect some data about the last days.
+We have to emphasise that a lot of old collected data were deleted while we were trying to find the best form of storage in order to use them considering our expectations. Any further research or additional feature is prior to first observe the data that we collect in a long period.
+
