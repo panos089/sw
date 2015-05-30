@@ -1,7 +1,9 @@
-                                                Android app (TaxiLog)
-                                                 Καλλίνικος Χολέβας
-                                                    ΑΜ Π2011031
-                                                    
+Android app (TaxiLog)  
+Καλλίνικος Χολέβας  
+ΑΜ Π2011031   
+  
+![alt tag](https://github.com/courses-ionio/sw/blob/master/projects_2015/%CE%A02011031/logo1.png) 
+
 
 ##Παραδοτέο 1
 
