@@ -34,3 +34,25 @@
 
 Το περιβάλλον ανάπτυξης της εφαρμογής.
 ![alt tag](https://raw.githubusercontent.com/AnnaKv/screenshots/master/annas/corfumap-interface.png)
+
+Τα blocks για τις λειτουργίες της εφαρμογής.
+![alt tag](https://raw.githubusercontent.com/AnnaKv/screenshots/master/annas/block1.png)
+Με το πρώτο block δημιουργούμε τη λίστα με τις τοποθεσίες.  Με το δεύτερο, το οποίο ενεργοποιείται μόλις η εφαρμογή ανοίξει, τα  Elements του ListPicker1 παίρνουν τη λίστα  και παρουσιάζουν τις τοποθεσίες. Το τρίτο block, καλεί τον ActivityStarter1 μόλις επιλεγεί από τη λίστα κάποια τοποθεσία, έτσι ώστε να την εμφανίσει στον χάρτη που έχουμε επιλέξει.
+
+![alt tag](https://raw.githubusercontent.com/AnnaKv/screenshots/master/annas/blocks2.png)
+Τέλος, το τέταρτο block θέτει σε μια λίστα για την κάθε τοποθεσία μια συγκερκιμμένη διεύθυνση από την υπηρεσία google maps.
+
+Η εφαρμογή  CorfuTownMapTour σε λειτουργία σε κινητό Android.
+
+![alt tag](https://raw.githubusercontent.com/AnnaKv/screenshots/master/annas/arxikh%20o8onh.png)
+Κατά την εκκίνηση της εφαρμογής.
+
+![alt tag](https://raw.githubusercontent.com/AnnaKv/screenshots/master/annas/lista.png)
+Η λίστα με τις τοποθεσίες που μπορεί να επιλέξει ο χρήστης.
+
+![alt tag](https://raw.githubusercontent.com/AnnaKv/screenshots/master/annas/apotelesma.png)
+Το αποτέλεσμα της επιλογής “Μουσείο Διονυσίου Σολωμού”.
+
+##Συμπεράσματα.
+
+Το MIT App Inventor αποτελεί ένα χρήσιμο και ενδιαφέρον εργαλείο για την υλοποίηση απλών εφαρμογών. Το  CorfuTownMapTour είναι μια μικρή και πολύ απλή εφαρμογή η οποία όμως μπορεί να επεκταθεί με πολλές χρήσιμες λειτουργίες. Για παράδειγμα, μια λειτουργία η οποία θα περιγράφει πλήρως τις τοποθεσίες, θα εμφανίζει μέρη ενδιαφέροντος δίπλα σε αυτές ή ακόμη και να κρατά ιστορικό τοποθεσιών που έχει επισκεπτεί ο χρήστης.
