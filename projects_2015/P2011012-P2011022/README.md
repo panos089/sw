@@ -73,7 +73,7 @@ That is the basic structure of app's backend. In Addition to this a cronjob was 
 
 <h4>Screenshots</h4>
 
-![Main](https://raw.githubusercontent.com/courses-ionio/sw/master/projects_2015/P2011012-P2011022/imgs/diagram.png)
+![Main](https://raw.githubusercontent.com/courses-ionio/sw/master/projects_2015/P2011012-P2011022/imgs/screenshot1.png)
 
 ![Secondary](https://raw.githubusercontent.com/courses-ionio/sw/master/projects_2015/P2011012-P2011022/imgs/Screenshot2.png)
 
