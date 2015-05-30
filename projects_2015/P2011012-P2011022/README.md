@@ -70,6 +70,10 @@ That is the basic structure of app's backend. In Addition to this a cronjob was 
 
 <h4>Screenshots</h4>
 
+![Main](https://lh6.googleusercontent.com/VK9Q3iF9Vg1FjJeXHaVN4RIGjypl8Qmdh3WoAfDcM8udsWMrRL4ZvgL1D6_2RrmI-Vr9RdvKrF2CYLY=w2512-h1170-rw)
+
+![Secondary](https://lh6.googleusercontent.com/CNLzP8txz16W6QHpFO-zfWDPwLTZxZn4z5mG8WOCI91GIWJn0N3M1lPHHbOq1abqU_lBl5aggdFsa3w=w2512-h1170-rw)
+
 <h4>Conlusions</h4>
 
 After a few days of using and trying to improve the application in the same time, we finally achieved to collect some data about the last days.
