@@ -2,7 +2,7 @@ Android app (TaxiLog)
 Καλλίνικος Χολέβας  
 ΑΜ Π2011031   
   
-![alt tag](https://www.dropbox.com/s/k3vhridqefu4vsb/logo1.png) 
+![alt tag](https://drive.google.com/open?id=0B9-rzHfGd3mDWDNWNm8zSnVabkU&authuser=0) 
 
 
 ##Παραδοτέο 1
