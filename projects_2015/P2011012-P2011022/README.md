@@ -5,7 +5,7 @@
 <h2>Final Report</h2>
 
 
-<h3>[Twitter and Google News based D3.js visualization on political] events(http://83.212.97.224:8080/nodenews/frontend/)</h3>
+<h3>[Twitter and Google News based D3.js visualization on political events](http://83.212.97.224:8080/nodenews/frontend/)</h3>
 
 <h4>Summary</h4>
 
