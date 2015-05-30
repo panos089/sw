@@ -8,4 +8,4 @@ The nodes will represent each entity's political origin ,the entity itself and t
 visualization is in realtime and it is also storing it's snapshots periodically. That said the user will be able to scroll through days and hours and construct the news diagram through time.
 
 
-<h3>My repository:<h3>https://github.com/skid648/Twitter-and-google-news-based-visualization
+[My repository](https://github.com/skid648/Twitter-and-google-news-based-visualization)
