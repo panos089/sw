@@ -15,9 +15,20 @@ visualization is in realtime and it is also storing it's snapshots periodically.
 
 <h4>Introduction</h4>
 
+In the last few years a necessity has been shown up in internet's world. That is the need to represent and organize all this information in any way possible. A visualization of a dataset is not purposed only to explore new patterns but it is also usefull for organizing raw data in a more structured way. That is the main but not the only reason this application was developed for.
+
 <h4>Tools</h4>
 
 <h4>Development Process </h4>
+
+*The first stage of develepment was application's backbone. Backend had split up to an rss reader and a twitter search collector script. Google news rss had been parsed and we filtred the current elected deputies with the "hottest" news this hour based on Google. For every Deputy that we found the twitter script was called with his name in the search query. All the data was being stored in json format and orgnized in a directory based on hours and the date that it was pulled.
+That is the basic structure of app's backend. In Addition to this a cronjob was set to run the backend script every hour.
+
+*The second stage was the actual visualization. We developed a client-side(Javascript) graph node based on d3's force layout. The graph node uses .json files to create the nodes and the links that connect them. A basic node is in the center connected to political parties ending up in Deputies nodes. These leaf nodes are clickable, constructing a new graph with the deputy for the center and the all the tweets connected to them. At this point we had to find a way for the graph to constuct through time. We use a two dimension area with a draggable circle to move through days an hours simultaneously.
+
+*In the third stage of development we tried to eliminate any bug that came up either from the raw data, the backend , or the visualization itself. We came to realize that the interaction with the draggable circle was contradictory to application desired simplicity so we developed a [drop-down calendar](http://codepen.io/skid648/pen/QbGYKX) to chose a timestamp.
+
+*All these came to a final design with a free template and a responsive mobile-friendly version of the website.
 
 <h4>Application Diagram</h4>
 
