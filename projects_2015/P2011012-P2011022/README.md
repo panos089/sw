@@ -18,6 +18,40 @@ visualization is in realtime and it is also storing it's snapshots periodically.
 In the last few years a necessity has been shown up in internet's world. That is the need to represent and organize all this information in any way possible. A visualization of a dataset is not purposed only to explore new patterns but it is also usefull for organizing raw data in a more structured way. That is the main but not the only reason this application was developed for.
 
 <h4>Tools</h4>
+<ul>
+<li>Server & database</li>
+  <ul>
+  <li>phpMyAdmin</li>
+  <li>XAMPP</li> 
+  <li>MAMPP</li>
+  <li>Apache server</li>
+  <li>MySQL database</li>
+  </ul>
+<li>Text Editors</li>
+<ul>
+  <li>Sublime Text 2 </li>
+  <li>Notepad++</li>
+  </ul>
+<li>Programming languages & libraries</li>
+<ul>
+  <li>PHP</li>
+  <li>Javascript</li>
+  <li>HTML5</li>
+  <li>SQL  </li>
+  <li>CSS</li>
+  <li>[D3.js Javascript Library](http://d3js.org/)</li>
+  </ul>
+<li>Browser</li>
+<ul>
+  <li>Google Chrome</li>
+  </ul>
+<li>Other</li>
+<ul>
+<li>[Google News RSS for Political News](https://news.google.gr/news?pz=1&cf=all&ned=el_gr&hl=el&topic=p&output=rss/)</li> 
+<li>[Twitter Search API](https://dev.twitter.com/rest/public/search)</li>
+<li>[CodePen](http://codepen.io/)</li>
+  </ul>
+</ul>
 
 <h4>Development Process </h4>
 
