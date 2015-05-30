@@ -66,6 +66,8 @@ That is the basic structure of app's backend. In Addition to this a cronjob was 
 
 <h4>Application Diagram</h4>
 
+![Diagram](https://lh4.googleusercontent.com/5hP8wrzDsiW6aXPT8UDSe6iddjYqD1h7pXLD0YMCNf6Mvsb0OXU5LGtLp32BCQHsVqv_ZmgdMWIiBR8=w2512-h1082-rw)
+
 <h4>Screenshots</h4>
 
 <h4>Conlusions</h4>
