@@ -27,5 +27,5 @@
 
     Το παρακάτων διάγραμμα απεικονίζει τις λειτουργίες της εφαρμογής.
 	
-	![alt tag] (https://github.com/AnnaKv/screenshots/blob/master/annas/diagramma.jpg)
+	![alt tag](https://github.com/AnnaKv/screenshots/blob/95756557c07ae2f1911aa6be995b75d34dd7623b/annas/diagramma.jpg)
 Η υλοποίηση του διαγράμματος πραγματοποιήθηκε μέσω του Visio 2013.
