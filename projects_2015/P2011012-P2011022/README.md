@@ -4,7 +4,8 @@
 
 <h2>Final Report</h2>
 
-<h3>Twitter and Google News based D3.js visualization on political events</h3>
+
+<h3>[Twitter and Google News based D3.js visualization on political] events(http://83.212.97.224:8080/nodenews/frontend/)</h3>
 
 <h4>Summary</h4>
 
@@ -66,13 +67,13 @@ That is the basic structure of app's backend. In Addition to this a cronjob was 
 
 <h4>Application Diagram</h4>
 
-![Diagram](https://lh4.googleusercontent.com/5hP8wrzDsiW6aXPT8UDSe6iddjYqD1h7pXLD0YMCNf6Mvsb0OXU5LGtLp32BCQHsVqv_ZmgdMWIiBR8=w2512-h1082-rw)
+![Diagram](https://raw.githubusercontent.com/courses-ionio/sw/master/projects_2015/P2011012-P2011022/imgs/diagram.png)
 
 <h4>Screenshots</h4>
 
-![Main](https://lh6.googleusercontent.com/VK9Q3iF9Vg1FjJeXHaVN4RIGjypl8Qmdh3WoAfDcM8udsWMrRL4ZvgL1D6_2RrmI-Vr9RdvKrF2CYLY=w2512-h1170-rw)
+![Main](https://raw.githubusercontent.com/courses-ionio/sw/master/projects_2015/P2011012-P2011022/imgs/diagram.png)
 
-![Secondary](https://lh6.googleusercontent.com/CNLzP8txz16W6QHpFO-zfWDPwLTZxZn4z5mG8WOCI91GIWJn0N3M1lPHHbOq1abqU_lBl5aggdFsa3w=w2512-h1170-rw)
+![Secondary](https://raw.githubusercontent.com/courses-ionio/sw/master/projects_2015/P2011012-P2011022/imgs/Screenshot2.png)
 
 <h4>Conlusions</h4>
 
