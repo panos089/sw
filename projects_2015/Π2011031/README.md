@@ -93,4 +93,4 @@ Adobe Photoshop CS6, για την δημιουργια του Logo της εφ�
 ###Μελλοντικές αλλαγές  
   
 Πρώτη προτεραιότητα είναι η μεταφορά - μετατροπή της εφαρμογής σε Java για πιο εύκολη βελτίωση της. Επίσης στα πλάνα μου βρίσκεται και η τροποποίηση της βάσης ώστε ο κάθε χρήστης να δημιουργεί προσωπικό λογαριασμό στην εφαρμογή-βάση.
-https://drive.google.com/open?id=0B9-rzHfGd3mDWDNWNm8zSnVabkU&authuser=0
+https://drive.google.com/open?id=0B9-rzHfGd3mDWDNWNm8zSnVabkU
