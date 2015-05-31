@@ -51,7 +51,7 @@ In the last few years a necessity has been shown up in internet's world. That is
 <li>Other</li>
 <ul>
 <li>[Google News RSS for Political News](https://news.google.gr/news?pz=1&cf=all&ned=el_gr&hl=el&topic=p&output=rss/)</li> 
-<li>[Twitter Search API](https://dev.twitter.com/rest/public/search)</li>
+<li>[Twitter REST API](https://dev.twitter.com/rest/public/search)</li>
 <li>[CodePen](http://codepen.io/)</li>
   </ul>
 </ul>
