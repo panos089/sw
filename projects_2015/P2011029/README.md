@@ -61,10 +61,15 @@ Gimp - Χρησιμοποιήθηκε το δωρεάν λογισμικό επ�
 
 
 ###Links που χρησιμοποιήθηκαν.
+
 http://opengameart.org/
+
 http://unity3d.com/learn/tutorials/modules
+
 https://www.youtube.com/watch?v=Xnyb2f6Qqzg&index=3&list=WL
+
 http://wiki.unity3d.com/index.php/Scripts
+
 https://www.youtube.com/playlist?list=PLAC325451207E3105
 
 
