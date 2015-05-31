@@ -63,7 +63,7 @@ That is the basic structure of app's backend. In Addition to this a cronjob was 
 
 <li>The second stage was the actual visualization. We developed a client-side(Javascript) graph node based on d3's force layout. The graph node uses .json files to create the nodes and the links that connect them. A basic node is in the center connected to political parties ending up in Deputies nodes. These leaf nodes are clickable, constructing a new graph with the deputy for the center and the all the tweets connected to them. At this point we had to find a way for the graph to constuct through time. We used a two dimension area with a draggable circle to move through days an hours simultaneously.</li>
 
-<li>In the third stage of development we tried to eliminate any bug that came up either from the raw data, the backend , or the visualization itself. We came to realize that the interaction with the draggable circle was contradictory to application desired simplicity so we developed a drop-down [calendar](http://codepen.io/skid648/pen/QbGYKX) to chose a timestamp.</li>
+<li>In the third stage of development we tried to eliminate any bug that came up either from the raw data, the backend , or the visualization itself. We came to realize that the interaction with the draggable circle was contradictory to application desired simplicity so we developed a drop-down calendar (http://codepen.io/skid648/pen/QbGYKX) to chose a timestamp.</li>
 
 <li>All these came to a final design with a free template and a responsive mobile-friendly version of the website.</li>
 </ul>
