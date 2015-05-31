@@ -25,7 +25,7 @@ C# - Η γλώσσα προγραμματισμού που χρησιμοποι�
 
 Gimp - Χρησιμοποιήθηκε το δωρεάν λογισμικό επεξεργασίας γραφικών Gimp για την κατασκευή του menu του παιχνιδιού αλλά και για την μερική επεξεργασία των διαφόρων sprites που χρησιμοποίηθηκαν.  
 
- Διαδικασία Ανάπτυξης 
+ ###Διαδικασία Ανάπτυξης 
 
 1)Συγκέντρωση των sprites απο open art sites που ταίριαζαν στην ιδέα του παιχνιδιού(links δίνονται στο τέλος της αναφοράς).
 
@@ -79,7 +79,7 @@ https://www.youtube.com/playlist?list=PLAC325451207E3105
    
 
 
-Ο κώδικασς του παιχνιδιο: https://github.com/Dovakon/code.git
+Ο κώδικας του παιχνιδιού: https://github.com/Dovakon/code.git
 
 Το project που τρέχει στη Unity:https://www.dropbox.com/s/x2h20co2f7musng/platCrash_project.rar?dl=0
 
