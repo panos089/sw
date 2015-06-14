@@ -27,14 +27,14 @@
 https://scratch.mit.edu/projects/66958454/
 
 ###Εικόνες απ’ το παιχνίδι : 
-http://prntscr.com/7gv6ez
+http://prntscr.com/7gv6ez , 
 http://prntscr.com/7gv7q8
 
 ###Βασική εικόνα παιχνιδιού:
 http://prntscr.com/7gv8fm
 
 ###Αναλυτικότερα ο κώδικας :
-http://prntscr.com/7gv9p4
-http://prntscr.com/7gva1v
+http://prntscr.com/7gv9p4 ,
+http://prntscr.com/7gva1v ,
 http://prntscr.com/7gvaei
 
