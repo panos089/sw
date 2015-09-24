@@ -3,6 +3,7 @@
 Δήμητρα Αφράτη 
 Π2009019
 # Παραδοτέο 1 
+
 Η εργασία που επέλεξα είναι η ανάπτυξη μίας εφαρμογής για smartphone που βοηθάει στη ρύθμηση της θερμοκρασίας κατά την παραγωγή του τσίπουρου. 
 
 # Παραδοτέο 2
@@ -11,7 +12,38 @@
  
 # Παραδοτέο 3 
 
-Τα αρχεία με τον κώδικα και κάποια screenshots
+![alt tag](https://scontent-mxp1-1.xx.fbcdn.net/hphotos-xpf1/v/t34.0-12/12006269_10207749320155874_4462744450135770556_n.jpg?oh=07fec2b9408d995a46a8b1838b02fec6&oe=5606440B)
+![alt tag](https://scontent-mxp1-1.xx.fbcdn.net/hphotos-xft1/v/t34.0-12/12004727_10207749320195875_6615869143297118399_n.jpg?oh=04080e5881ad2a7c212b09f0c33db728&oe=5607232B)
+
+```sh
+// listeners
+		fix.setOnClickListener(new OnClickListener() {
+
+			@Override
+			public void onClick(View v) {
+				int t = Integer.parseInt(temp.getText().toString());
+				int p = Integer.parseInt(phas.getText().toString());
+				if (p < 14 || p > 30) {
+					result.setText("ËÜèïò öáéíïìåíéêüò ôßôëïò");
+				} else {
+					if (t < 0) {
+						result.setText("ËÜèïò Èåñìïêñáóßá!");
+					}else if (t <= 19){
+						text = TemperatureLogic.addTemp(t, p);
+						result.setText("ÐñÝðåé íá ðñïóèÝóåéò " + text + "C");
+					}else if (t >= 21 && t <= 40){
+						text = TemperatureLogic.subTemp(t, p);
+						result.setText("ÐñÝðåé íá áöáéñÝóåéò " + text + "C");
+					}else{
+						result.setText("ËÜèïò Èåñìïêñáóßá!");
+					}
+					
+				}
+				
+			}
+
+		});
+```
 
 # Τελική Αναφορά 
 
