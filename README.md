@@ -20,7 +20,7 @@
 2. Εγκατάσταση: xMOOC (e.g., coursebuilder) ή cMOOC (e.g., big blue button) για SW, [Crowdsourcing](http://pybossa.com/), [Bloging](https://github.com/inukshuk/jekyll-scholar), 7
 3. Επέκταση [VideoAnalytics](http://www.socialskip.org/home), [Android Sports App](https://github.com/andrid/Run2gether), [Twitter Visualisation](http://www.Flutrack.org), [Old city 3D cartography](http://buildinginspector.nypl.org/), [Augmented reality location based game](https://www.tripventure.ne), [Cartography](https://github.com/map1t0) , visualization
 6. Δημιουργία εκπαιδευτικού παιχνιδιού για την [εξάσκηση στην αλγοριθμική σκέψη] (https://www.dropbox.com/s/37rn4em8xsqt849/%CE%91%CE%BB%CE%B3%CE%BF%CF%81%CE%B9%CE%B8%CE%BC%CE%B9%CE%BA%CE%AE%20%CF%83%CE%BA%CE%AD%CF%88%CE%B7.docx?dl=0) 
-7. Δημιουργία εφαρμογής για κινητά τηλέφωνα χρησιμοποιώντας τον [App Inventor] (https://www.dropbox.com/s/4kmjc97t5h2y1hr/%CE%94%CE%B7%CE%BC%CE%B9%CE%BF%CF%85%CF%81%CE%B3%CE%AF%CE%B1%20%CE%B5%CE%BA%CF%80%CE%B1%CE%B9%CE%B4%CE%B5%CF%85%CF%84%CE%B9%CE%BA%CF%8E%CE%BD%20%CE%B5%CF%86%CE%B1%CF%81%CE%BC%CE%BF%CE%B3%CF%8E%CE%BD%20%CE%B3%CE%B9%CE%B1%20adroid%20%CF%83%CF%85%CF%83%CE%BA%CE%B5%CF%85%CE%AD%CF%82.docx?dl=0)
+7. Δημιουργία εφαρμογής για κινητά τηλέφωνα χρησιμοποιώντας τον [App Inventor] (https://www.dropbox.com/s/iymof7sxp3ldj1k/App%20inventor2.docx?dl=0)
 8. [Δημιουργία Multi-touch εφαρμογών](https://www.dropbox.com/s/5j9m14b7398j270/Software%20Technology_%CE%B5%CF%81%CE%B3%CE%B1%CF%83%CE%AF%CE%B5%CF%822.pdf?dl=0)
 
 Η επίβλεψη των εργασίων θα γίνει τόσο από τον διδάσκοντα όσο και από τους βοηθούς του μαθήματος. 
