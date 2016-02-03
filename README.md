@@ -16,7 +16,7 @@
 
 Υπάρχουν οι παρακάτω διαθέσιμες εργασίες που βαθμολογούνται πάντα ανάλογα με τον βαθμό δυσκολίας όπως φαίνεται δίπλα στο είδος της εργασίας. Είναι συνετό να επιλέξετε είδος εργασίας με βάση τις προηγούμενες γνώσεις, και τον διαθέσιμο χρόνο που έχετε. Αν για παράδειγμα δεν έχετε πολύ χρόνο τότε το πιο λογικό είναι να επιλέξετε μια εργασία που έχει μικρό βαθμό δυσκολίας. Πέρα από τα παρακάτω ενδεικτικά θέματα μπορείτε να διαλέξετε άλλο θέμα με βάση τα ενδιαφέροντα σας και μόνο σε συμφωνία με τον διδάσκοντα. 
 
-1. Σχεδιασμός: Εκπαιδευτικό παιχνίδι με Scratch, [MIT App inventor quantified self] (https://www.dropbox.com/s/ayf3dmmwgqbydfs/App%20inventor.docx?dl=0), 6
+1. Σχεδιασμός: [Εκπαιδευτικό παιχνίδι με Scratch](https://docs.google.com/document/d/1wyW_wgkojPfs4p4JYba-BVe5Dzo0W7SJwmpRh4A1Oz4/edit?usp=sharing), [MIT App inventor quantified self] (https://www.dropbox.com/s/ayf3dmmwgqbydfs/App%20inventor.docx?dl=0), 6
 2. Εγκατάσταση: xMOOC (e.g., coursebuilder) ή cMOOC (e.g., big blue button) για SW, [Crowdsourcing](http://pybossa.com/), [Bloging](https://github.com/inukshuk/jekyll-scholar), 7
 3. Επέκταση [VideoAnalytics](http://www.socialskip.org/home), [Android Sports App](https://github.com/andrid/Run2gether), [Twitter Visualisation](http://www.Flutrack.org), [Old city 3D cartography](http://buildinginspector.nypl.org/), [Augmented reality location based game](https://www.tripventure.ne), [Cartography](https://github.com/map1t0) , visualization
 6. Δημιουργία εκπαιδευτικού παιχνιδιού για την [εξάσκηση στην αλγοριθμική σκέψη] (https://www.dropbox.com/s/37rn4em8xsqt849/%CE%91%CE%BB%CE%B3%CE%BF%CF%81%CE%B9%CE%B8%CE%BC%CE%B9%CE%BA%CE%AE%20%CF%83%CE%BA%CE%AD%CF%88%CE%B7.docx?dl=0) 
