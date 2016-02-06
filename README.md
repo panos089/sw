@@ -18,7 +18,7 @@
 
 1. Σχεδιασμός: [Εκπαιδευτικό παιχνίδι με Scratch](https://docs.google.com/document/d/1wyW_wgkojPfs4p4JYba-BVe5Dzo0W7SJwmpRh4A1Oz4/edit?usp=sharing), [MIT App inventor quantified self] (https://www.dropbox.com/s/ayf3dmmwgqbydfs/App%20inventor.docx?dl=0), 6
 2. Εγκατάσταση: xMOOC (e.g., coursebuilder) ή cMOOC (e.g., big blue button) για SW, [Crowdsourcing](http://pybossa.com/), [Bloging](https://github.com/inukshuk/jekyll-scholar), 7
-3. Επέκταση [VideoAnalytics](http://www.socialskip.org/home), [Android Sports App](https://github.com/andrid/Run2gether), [Twitter Visualisation](http://www.Flutrack.org), [Old city 3D cartography](http://buildinginspector.nypl.org/), [Cartography](https://github.com/map1t0) , visualization
+3. Επέκταση [VideoAnalytics](http://www.socialskip.org/home), [Android Sports App](https://github.com/andrid/Run2gether), [Twitter Visualisation](http://www.Flutrack.org), [Old city 3D cartography](http://buildinginspector.nypl.org/), [Interactive Mapmaking](https://github.com/map1t0) , visualization
 6. Δημιουργία εκπαιδευτικού παιχνιδιού για την [εξάσκηση στην αλγοριθμική σκέψη] (https://www.dropbox.com/s/37rn4em8xsqt849/%CE%91%CE%BB%CE%B3%CE%BF%CF%81%CE%B9%CE%B8%CE%BC%CE%B9%CE%BA%CE%AE%20%CF%83%CE%BA%CE%AD%CF%88%CE%B7.docx?dl=0) 
 7. Δημιουργία εφαρμογής για κινητά τηλέφωνα χρησιμοποιώντας τον [App Inventor] (https://www.dropbox.com/s/iymof7sxp3ldj1k/App%20inventor2.docx?dl=0)
 8. [Δημιουργία Multi-touch εφαρμογών](https://www.dropbox.com/s/5j9m14b7398j270/Software%20Technology_%CE%B5%CF%81%CE%B3%CE%B1%CF%83%CE%AF%CE%B5%CF%822.pdf?dl=0)
