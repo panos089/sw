@@ -25,6 +25,7 @@
 * [Ενα διαδραστικό κεφάλαιο σε Web ή Mobile App για το βιβλίο](http://www.pibook.gr) σύμφωνα με τις οδηγίες του [Explorable Explanations](http://worrydream.com/ExplorableExplanations/)
 * [Ενα νέο κεφάλαιο για βιβλίο εργασιών προγραμματισμού για MIT App Inventor](http://www.mttcs.org/Projekte/Squeak/material/ideas_eng.pdf)
 * [Δημιουργικές αλλαγές σε κλασσικά βίντεο-παιχνίδια](http://stabyourself.net/)
+* [Ubicomp course projects](https://github.com/courses-ionio/ubiq)
 
 Η επίβλεψη των εργασίων θα γίνει τόσο από τον διδάσκοντα όσο και από τους βοηθούς του μαθήματος. 
 
