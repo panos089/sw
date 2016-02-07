@@ -24,6 +24,7 @@
 * [Δημιουργία Multi-touch εφαρμογών](https://www.dropbox.com/s/5j9m14b7398j270/Software%20Technology_%CE%B5%CF%81%CE%B3%CE%B1%CF%83%CE%AF%CE%B5%CF%822.pdf?dl=0)
 * [Ενα διαδραστικό κεφάλαιο σε Web ή Mobile App για το βιβλίο](http://www.pibook.gr) σύμφωνα με τις οδηγίες του [Explorable Explanations](http://worrydream.com/ExplorableExplanations/)
 * [Ενα νέο κεφάλαιο για βιβλίο εργασιών προγραμματισμού για MIT App Inventor](http://www.mttcs.org/Projekte/Squeak/material/ideas_eng.pdf)
+* [Δημιουργικές αλλαγές σε κλασσικά βίντεο-παιχνίδια](http://stabyourself.net/)
 
 Η επίβλεψη των εργασίων θα γίνει τόσο από τον διδάσκοντα όσο και από τους βοηθούς του μαθήματος. 
 
