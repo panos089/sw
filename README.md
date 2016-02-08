@@ -26,6 +26,7 @@
 * [Ενα νέο κεφάλαιο για βιβλίο εργασιών προγραμματισμού για MIT App Inventor](http://www.mttcs.org/Projekte/Squeak/material/ideas_eng.pdf)
 * [Δημιουργικές αλλαγές σε κλασσικά βίντεο-παιχνίδια](http://stabyourself.net/)
 * [Ubicomp course projects](https://github.com/courses-ionio/ubiq)
+* [Social live TV](http://dev.twitch.tv): [Example Apps](http://www.overwolf.com/twitch-app-challenge/)
 
 Η επίβλεψη των εργασίων θα γίνει τόσο από τον διδάσκοντα όσο και από τους βοηθούς του μαθήματος. 
 
