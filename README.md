@@ -21,7 +21,8 @@
 * Επέκταση [VideoAnalytics](http://www.socialskip.org/home), [Android Sports App](https://github.com/andrid/Run2gether), [Twitter Visualisation](http://www.Flutrack.org), [Old city 3D cartography](http://buildinginspector.nypl.org/), [Interactive Mapmaking](https://github.com/map1t0) , visualization
 * Δημιουργία εκπαιδευτικού παιχνιδιού για την [εξάσκηση στην αλγοριθμική σκέψη] (https://www.dropbox.com/s/37rn4em8xsqt849/%CE%91%CE%BB%CE%B3%CE%BF%CF%81%CE%B9%CE%B8%CE%BC%CE%B9%CE%BA%CE%AE%20%CF%83%CE%BA%CE%AD%CF%88%CE%B7.docx?dl=0) 
 * Δημιουργία εφαρμογής για κινητά τηλέφωνα χρησιμοποιώντας τον [App Inventor] (https://www.dropbox.com/s/iymof7sxp3ldj1k/App%20inventor2.docx?dl=0)
-* [Δημιουργία Multi-touch εφαρμογών](https://www.dropbox.com/s/5j9m14b7398j270/Software%20Technology_%CE%B5%CF%81%CE%B3%CE%B1%CF%83%CE%AF%CE%B5%CF%822.pdf?dl=0)
+* [Δημιουργία Multi-touch εφαρμογών](https://www.dropbox.com/s/e3402d49h45f7jb/Software%20Technology_%CE%B5%CF%81%CE%B3%CE%B1%CF%83%CE%AF%CE%B5%CF%82.pdf?dl=0)
+* [Δημιουργία API σε node.js που επιστρέφει στοιχεία μιας βάσης SQL](https://www.dropbox.com/s/4x719mnvjwfd7jr/%CE%95%CF%81%CE%B3%CE%B1%CF%83%CE%AF%CE%B1%20%CE%B5%CE%BE%CE%B1%CE%BC%CE%AE%CE%BD%CE%BF%CF%85%20SW.pdf?dl=0)
 * [Ενα διαδραστικό κεφάλαιο σε Web ή Mobile App για το βιβλίο](http://www.pibook.gr) σύμφωνα με τις οδηγίες του [Explorable Explanations](http://worrydream.com/ExplorableExplanations/) ή [Editions at play](https://editionsatplay.withgoogle.com/#/)
 * [Ενα νέο κεφάλαιο για βιβλίο εργασιών προγραμματισμού για MIT App Inventor](http://www.mttcs.org/Projekte/Squeak/material/ideas_eng.pdf)
 * [Δημιουργικές αλλαγές σε κλασσικά βίντεο-παιχνίδια](http://stabyourself.net/)
