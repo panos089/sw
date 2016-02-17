@@ -84,3 +84,5 @@
 [A Successful Git Branching Model](http://nvie.com/posts/a-successful-git-branching-model/)
 
 [Code Academy](https://www.codecademy.com/)
+
+[Software Studies](http://lab.softwarestudies.com/)
